@@ -1,0 +1,42 @@
+[
+  {
+    "achievement": "GPU detected",
+    "detail": "Quadro RTX 3000",
+    "elapsed_s": 0.1
+  },
+  {
+    "achievement": "Data loaded",
+    "detail": "2,181,430 train / 850,077 test, 28 classes",
+    "elapsed_s": 16.6
+  },
+  {
+    "achievement": "Model trained",
+    "detail": "164.7s",
+    "elapsed_s": 181.4
+  },
+  {
+    "achievement": "GPU confirmed working",
+    "detail": "peak 78% util, 2724 MB VRAM",
+    "elapsed_s": 181.4
+  },
+  {
+    "achievement": "Accuracy target hit",
+    "detail": "0.9014 ≥ 0.8",
+    "elapsed_s": 188.1
+  },
+  {
+    "achievement": "F1 target hit",
+    "detail": "0.8581 ≥ 0.75",
+    "elapsed_s": 188.1
+  },
+  {
+    "achievement": "Beat majority-class baseline",
+    "detail": "0.9014 vs 0.8975",
+    "elapsed_s": 188.1
+  },
+  {
+    "achievement": "Model saved",
+    "detail": "D:\\coding files\\nasa\\done_files2\\model1",
+    "elapsed_s": 194.7
+  }
+]
